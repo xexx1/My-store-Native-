@@ -50,7 +50,7 @@ const App = () => {
                             </View>
                             <View>
                                 <Text className="text-white text-xl font-extrabold tracking-wide">
-                                    Thanakit
+                                    JODS
                                 </Text>
                                 <Text className="text-primary-300 text-xs font-medium -mt-0.5">
                                     Premium Tech Store
